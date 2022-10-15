@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/migo86932634" target="blank"><img src="https://img.shields.io/twitter/follow/migo86932634?logo=twitter&style=for-the-badge" alt="migo86932634" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Laravel,Ruby,Rails,BSIT**
+- 🌱 I’m currently learning **Java,Laravel,Kotlinand Machine Learning**
 
-- 👨‍💻 All of my projects are available at [migosih.github.io](migosih.github.io)
+- 👨‍💻 All of my projects are available at (migosih.github.io)
 
-- 💬 Ask me about **python,java**
+- 💬 Ask me about **python,java and Kotlin**
 
 - 📫 How to reach me **xt4109307@gmail.com**
 
