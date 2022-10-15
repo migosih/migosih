@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java,Laravel,Kotlin and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [migosih.github.io]
+- 👨‍💻 All of my projects are available at **migosih.github.io**
 
 - 💬 Ask me about **python,java and Kotlin**
 
