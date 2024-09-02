@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Analytics and Machine Learning**
 
-- 💬 Ask me about **python,PHP and Javascript(JQUERY)**
+- 💬 Ask me about **python(selenium&beautiful soup),PHP and Javascript(JQUERY)**
 
 - 📫 How to reach me **xt4109307@gmail.com**
 
